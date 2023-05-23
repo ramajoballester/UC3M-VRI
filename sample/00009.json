@@ -1,0 +1,20 @@
+{
+    "imagePath": "00009.jpg",
+    "imageHeight": 1080,
+    "imageWidth": 1920,
+    "ids": [
+        {
+            "label": "volkswagen polo 2001 gris",
+            "bbox_coords": [
+                [
+                    1056,
+                    580
+                ],
+                [
+                    1422,
+                    992
+                ]
+            ]
+        }
+    ]
+}

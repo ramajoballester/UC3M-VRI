@@ -1,0 +1,46 @@
+{
+    "imagePath": "00104.jpg",
+    "imageHeight": 1080,
+    "imageWidth": 1920,
+    "ids": [
+        {
+            "label": "bmw serie 5 1996 azul",
+            "bbox_coords": [
+                [
+                    252,
+                    379
+                ],
+                [
+                    421,
+                    470
+                ]
+            ]
+        },
+        {
+            "label": "hyundai i30 2017 blanco",
+            "bbox_coords": [
+                [
+                    719,
+                    506
+                ],
+                [
+                    1060,
+                    701
+                ]
+            ]
+        },
+        {
+            "label": "renault trafic 2002 blanco",
+            "bbox_coords": [
+                [
+                    12,
+                    322
+                ],
+                [
+                    169,
+                    408
+                ]
+            ]
+        }
+    ]
+}

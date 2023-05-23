@@ -1,0 +1,33 @@
+{
+    "imagePath": "00036.jpg",
+    "imageHeight": 1080,
+    "imageWidth": 1920,
+    "ids": [
+        {
+            "label": "hyundai i30 2017 blanco",
+            "bbox_coords": [
+                [
+                    428,
+                    493
+                ],
+                [
+                    1019,
+                    780
+                ]
+            ]
+        },
+        {
+            "label": "hyundai i30 2017 blanco",
+            "bbox_coords": [
+                [
+                    287,
+                    119
+                ],
+                [
+                    501,
+                    227
+                ]
+            ]
+        }
+    ]
+}
