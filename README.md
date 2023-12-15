@@ -1,6 +1,6 @@
 # UC3M-VRI
 
-UC3M-VRI is a dataset for Vehicle Re-Identification based on visual features. It contains 1611 images from 286 different vehicles. Labels include information about make and model of the vehicle. It offers a comprehensive collection of images and labels with make and model information from diverse perspectives and conditions, providing a challenging and realistic environment for VRI research and development.
+UC3M-VRI is a dataset for Vehicle Re-Identification based on visual features. It contains 1611 images from 286 different vehicles. Labels include information about make and model of the vehicle. It offers a comprehensive collection of images and labels with make and model information from diverse perspectives and conditions, providing a challenging and realistic environment for VRI research and development. Check the [open-access paper](https://doi.org/10.1016/j.robot.2023.104608).
 
 ## Overview
 
@@ -25,3 +25,27 @@ The intersection subset includes traffic scenes captured at intersections. It is
     <img src="sample/00036.jpg" alt="Intersection dataset sample" width=350/>
     <img src="sample/00104.jpg" alt="Intersection dataset sample" width=350/>
 </p>
+
+
+## Citation
+
+If you use this dataset in your research, please cite the following paper:
+
+```
+@article{RamajoBallester2024,
+    title = {Dual license plate recognition and visual features encoding for vehicle identification},
+    journal = {Robotics and Autonomous Systems},
+    volume = {172},
+    pages = {104608},
+    year = {2024},
+    issn = {0921-8890},
+    doi = {https://doi.org/10.1016/j.robot.2023.104608},
+    url = {https://www.sciencedirect.com/science/article/pii/S0921889023002476},
+    author = {Álvaro Ramajo-Ballester and José María {Armingol Moreno} and Arturo {de la Escalera Hueso}},
+    keywords = {Deep learning, Public dataset, ALPR, License plate recognition, Vehicle re-identification, Object detection},
+}
+```
+
+## Download
+
+The dataset is available for [download](https://doi.org/10.21950/MKWOEQ).
